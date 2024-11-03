@@ -1,4 +1,5 @@
 ## User Data
+아래 내용을 붙여 넣어주세요.
 ```Shell
 #!/bin/bash
 yum install -y git docker 
